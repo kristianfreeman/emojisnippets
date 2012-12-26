@@ -5,7 +5,7 @@
 	<key>groupInfo</key>
 	<dict>
 		<key>expandAfterMode</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>groupName</key>
 		<string>Emoji</string>
 	</dict>
@@ -176,6 +176,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T22:13:12Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T21:16:36Z</date>
 			<key>plainText</key>
@@ -374,6 +376,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T21:23:23Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T21:15:00Z</date>
 			<key>plainText</key>
@@ -2112,6 +2116,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T21:18:16Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T21:05:07Z</date>
 			<key>plainText</key>
@@ -2244,6 +2250,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T22:13:23Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T21:03:48Z</date>
 			<key>plainText</key>
@@ -2288,6 +2296,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T21:30:41Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T21:04:17Z</date>
 			<key>plainText</key>
@@ -3190,6 +3200,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T21:18:19Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T20:57:50Z</date>
 			<key>plainText</key>
@@ -3432,6 +3444,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T21:18:28Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T20:55:36Z</date>
 			<key>plainText</key>
@@ -4204,6 +4218,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-12-26T21:24:59Z</date>
 			<key>modificationDate</key>
 			<date>2012-12-26T20:43:48Z</date>
 			<key>plainText</key>
@@ -4229,9 +4245,9 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-12-26T20:49:38Z</date>
+			<date>2012-12-26T21:18:14Z</date>
 			<key>modificationDate</key>
-			<date>2012-12-26T21:17:40Z</date>
+			<date>2012-12-26T22:13:21Z</date>
 			<key>plainText</key>
 			<string>😄</string>
 			<key>snippetType</key>
