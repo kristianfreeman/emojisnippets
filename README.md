@@ -7,10 +7,4 @@ Clone the repo to download. Or curl. Or whatever you feel most comfortable with.
 
 Snippets follow conventions found at [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/): they *should* match one-for-one with Github emoji (in most cases). For example, `:smiley:` or `:poop:`.
 
-Completion:
-
-* ~~People~~
-* Nature
-* Objects
-* Places
-* Symbols
+A huge shoutout to diy's [NSStringEmojize](https://github.com/diy/nsstringemojize), which I cannibalized in order to quickly grab all of the emoji and return them in TextExpander format. This would have taken 50x longer without it.
